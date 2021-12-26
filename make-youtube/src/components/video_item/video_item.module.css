@@ -1,0 +1,22 @@
+.video {
+  display: flex;
+  align-items: center;
+  border: 1px solid lightgray;
+  margin-bottom: 0.3em;
+  cursor: pointer;
+  transition: transform 150ms ease-in;
+}
+.video:hover {
+  transform: scale(1.02);
+}
+.thumbnail {
+  width: 40%;
+}
+.title,
+.channel {
+  margin: 0;
+}
+
+.channel {
+  font-size: 0.9rem;
+}
