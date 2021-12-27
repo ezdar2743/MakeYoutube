@@ -1,7 +1,30 @@
 .header {
   display: flex;
   height: 4rem;
-  padding: 0.5em 1em;
+  padding: 0.8em 1em;
   color: ghostwhite;
   align-items: center;
+}
+.logo {
+  margin-right: 0.8em;
+}
+.title {
+  margin-right: 0.8em;
+}
+.input {
+  flex-basis: 100%;
+  font-size: 1.2em;
+  outline: 0;
+}
+.btn {
+  height: 2.3em;
+  background-color: #8b8887;
+  border: none;
+  border-radius: 4px;
+  margin-left: 0.3em;
+  cursor: pointer;
+}
+
+.btn img {
+  height: 1.5em;
 }
