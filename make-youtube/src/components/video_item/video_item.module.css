@@ -10,7 +10,7 @@ body {
   background-color: #2e3134;
   display: flex;
   align-items: center;
-  border: 1px solid lightgray;
+  border: 1px solid transparent;
   cursor: pointer;
   margin: 0.2em;
   color: ghostwhite;
