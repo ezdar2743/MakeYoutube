@@ -8,6 +8,7 @@
 
 .detail {
   flex: 1 1 70%;
+  color: ghostwhite;
 }
 .list {
   flex: 1 1 30%;
